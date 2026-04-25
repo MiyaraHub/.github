@@ -18,9 +18,9 @@
 
 ## What we make
 
-We build **premium, single-purpose remote-control apps** for the hardware sitting in your rack. No accounts. No subscriptions. No tracking. Just your phone talking directly to your gear over your local network — the way it should have worked from day one.
+We build **premium, single-purpose remote-control apps** for the hardware sitting in your rack. No accounts. No subscriptions. No tracking. Just your phone talking directly to your gear over your local network - the way it should have worked from day one.
 
-Every app on this page is **production code, native Flutter, shipping on both iOS and Android stores** (or in active development for ones still in flight). Source is proprietary, so the repos behind these are private — but the apps are real, the receivers are real, and the people testing them on the bench next to a CX-A5200 or a VRRoom 8K are real.
+Every app on this page is **production code, native Flutter, shipping on both iOS and Android stores** (or in active development for ones still in flight). Source is proprietary, so the repos behind these are private - but the apps are real, the receivers are real, and the people testing them on the bench next to a CX-A5200 or a VRRoom 8K are real.
 
 ---
 
@@ -36,7 +36,7 @@ Every app on this page is **production code, native Flutter, shipping on both iO
 
 ### [AVR Maestro](https://miyarahub.com/avr-maestro/)
 
-The premium remote for **Denon and Marantz** AV receivers. Volume, input, surround modes, multi-zone, Audyssey + Dirac Live + IMAX Enhanced + Auro-3D, manual A/V audio delay, now-playing, and a full virtual remote — all over Wi-Fi, no app accounts.
+The premium remote for **Denon and Marantz** AV receivers. Volume, input, surround modes, multi-zone, Audyssey + Dirac Live + IMAX Enhanced + Auro-3D, manual A/V audio delay, now-playing, and a full virtual remote - all over Wi-Fi, no app accounts.
 
 <a href="https://apps.apple.com/us/app/avr-maestro/id6762881597"><img src="https://img.shields.io/badge/App_Store-LIVE-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.miyarahub.avrmaestro"><img src="https://img.shields.io/badge/Play_Store-LIVE-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" /></a>
@@ -55,7 +55,7 @@ The premium remote for **Denon and Marantz** AV receivers. Volume, input, surrou
 
 ### [FuryPath](https://miyarahub.com/fury-path/)
 
-A single comprehensive controller for **HDFury HDMI processors** — VRRoom 8K, Vertex 2, Diva, Maestro, Arcana, Dr.HDMI 8K, and the rest of the lineup. Full EDID management, HDR / Dolby Vision, CEC / eARC, JVC macros, real-time signal info, and on-screen overlay configuration.
+A single comprehensive controller for **HDFury HDMI processors** - VRRoom 8K, Vertex 2, Diva, Maestro, Arcana, Dr.HDMI 8K, and the rest of the lineup. Full EDID management, HDR / Dolby Vision, CEC / eARC, JVC macros, real-time signal info, and on-screen overlay configuration.
 
 <a href="https://apps.apple.com/us/app/furypath/id6763290302"><img src="https://img.shields.io/badge/App_Store-LIVE-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.miyarahub.furypath"><img src="https://img.shields.io/badge/Play_Store-LIVE-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" /></a>
@@ -93,7 +93,7 @@ Comprehensive **UPS monitoring** for CyberPower, APC, Eaton, Tripp Lite, and any
 
 ### [Syno Manager](https://miyarahub.com/synology-manager/)
 
-Mobile management for **Synology NAS** systems. Real-time monitoring of CPU / memory / storage / network, Docker container control, surveillance camera streams, backup task tracking — everything DSM gives you, in your pocket.
+Mobile management for **Synology NAS** systems. Real-time monitoring of CPU / memory / storage / network, Docker container control, surveillance camera streams, backup task tracking - everything DSM gives you, in your pocket.
 
 <a href="https://apps.apple.com/us/app/syno-manager/id6763011668"><img src="https://img.shields.io/badge/App_Store-LIVE-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.synomanager"><img src="https://img.shields.io/badge/Play_Store-LIVE-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" /></a>
@@ -130,7 +130,7 @@ Sibling to AVR Maestro, this time for **Yamaha MusicCast** receivers (RX-V, RX-A
 
 ### [Network Deck](https://miyarahub.com/network-deck/)
 
-**UniFi network management**, simplified. Clients, WiFi, firewall, port profiles, VPN, speed test, multi-site switching — direct to your UniFi controller over your local network, no Ubiquiti-cloud round-trip required.
+**UniFi network management**, simplified. Clients, WiFi, firewall, port profiles, VPN, speed test, multi-site switching - direct to your UniFi controller over your local network, no Ubiquiti-cloud round-trip required.
 
 <img src="https://img.shields.io/badge/Status-Coming_Soon-94a3b8?style=flat-square" alt="Coming Soon" />
 
@@ -148,7 +148,7 @@ Sibling to AVR Maestro, this time for **Yamaha MusicCast** receivers (RX-V, RX-A
 
 ### [ProjectorPilot](https://miyarahub.com/projector-pilot/)
 
-Premium controller for **Epson projectors**. Power, picture settings, color modes, HDR, lens memory, keystone correction, lamp hours, OSD navigation — everything the included remote does, only without the line-of-sight requirement.
+Premium controller for **Epson projectors**. Power, picture settings, color modes, HDR, lens memory, keystone correction, lamp hours, OSD navigation - everything the included remote does, only without the line-of-sight requirement.
 
 <img src="https://img.shields.io/badge/Status-Coming_Soon-94a3b8?style=flat-square" alt="Coming Soon" />
 
@@ -166,7 +166,7 @@ Premium controller for **Epson projectors**. Power, picture settings, color mode
 
 ### [Elan Audio Lab](https://miyarahub.com/elan-audio-lab/)
 
-Full-stack **e-commerce platform** for premium audio products — product catalog, Square + PayPal payment processing, quote system, blog, artist showcases. The non-AVR sibling project; same studio, different muscle.
+Full-stack **e-commerce platform** for premium audio products - product catalog, Square + PayPal payment processing, quote system, blog, artist showcases. The non-AVR sibling project; same studio, different muscle.
 
 <img src="https://img.shields.io/badge/Status-Active-e63946?style=flat-square" alt="Active" />
 
@@ -192,7 +192,7 @@ Full-stack **e-commerce platform** for premium audio products — product catalo
 
 Every app is **single-codebase Flutter**, shipping native binaries to both stores from one source tree. We make heavy use of **Riverpod** for state, **dart:io HttpClient** + **raw Sockets** for the parts of the wire protocol where keep-alive lies to you, and **Firebase Crashlytics** for the parts of production that don't.
 
-The hardware-talking parts of the stack — Telnet for Denon, YXC for Yamaha, AJAX + AppCommand for HEOS, SNMP for UPS, DSM for Synology, raw HDFury binary buffers — are reverse-engineered from official protocol PDFs, captured wire traffic on real devices, and cross-referenced against the open-source community's Python / Home Assistant integrations.
+The hardware-talking parts of the stack - Telnet for Denon, YXC for Yamaha, AJAX + AppCommand for HEOS, SNMP for UPS, DSM for Synology, raw HDFury binary buffers - are reverse-engineered from official protocol PDFs, captured wire traffic on real devices, and cross-referenced against the open-source community's Python / Home Assistant integrations.
 
 ---
 
@@ -207,9 +207,9 @@ The hardware-talking parts of the stack — Telnet for Denon, YXC for Yamaha, AJ
 
 ## Community + contact
 
-The repos in this org are **proprietary** — that's why they're private. But:
+The repos in this org are **proprietary** - that's why they're private. But:
 
-- **Got feedback or a bug?** Join the [Discord](https://discord.gg/UmVtxE5fXN) — fastest path to a fix.
+- **Got feedback or a bug?** Join the [Discord](https://discord.gg/UmVtxE5fXN) - fastest path to a fix.
 - **Feature request?** Same Discord, dedicated channel per app.
 - **Press / partnership / consulting?** Email [admin@miyarahub.com](mailto:admin@miyarahub.com).
 - **Browsing for the apps themselves?** [miyarahub.com](https://miyarahub.com) lists every product with shop-the-app links.
