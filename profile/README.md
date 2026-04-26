@@ -76,7 +76,7 @@ A single comprehensive controller for **HDFury HDMI processors** - VRRoom 8K, Ve
 
 Comprehensive **UPS monitoring** for CyberPower, APC, Eaton, Tripp Lite, and any SNMP-capable battery backup. Real-time battery + power metrics, outlet control, event logging, smart alerts, Home Assistant integration.
 
-<a href="https://apps.apple.com/us/app/upsight/id6762854779"><img src="https://img.shields.io/badge/App_Store-LIVE-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
+<a href="https://apps.apple.com/us/app/upsight-for-cyberpower-eaton/id6762854779"><img src="https://img.shields.io/badge/App_Store-LIVE-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.miyarahub.upsight"><img src="https://img.shields.io/badge/Play_Store-LIVE-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" /></a>
 
 `Flutter` · `SNMP` · `Network Discovery`
