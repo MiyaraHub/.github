@@ -164,13 +164,32 @@ Premium controller for **Epson projectors**. Power, picture settings, color mode
 </td>
 <td valign="top">
 
-### [Elan Audio Lab](https://miyarahub.com/elan-audio-lab/)
+### [Elan Audio Lab](https://elanaudiolab.com)
 
 Full-stack **e-commerce platform** for premium audio products - product catalog, Square + PayPal payment processing, quote system, blog, artist showcases. The non-AVR sibling project; same studio, different muscle.
 
-<img src="https://img.shields.io/badge/Status-Active-e63946?style=flat-square" alt="Active" />
+<a href="https://play.google.com/store/apps/details?id=com.elanaudiolab.app"><img src="https://img.shields.io/badge/Play_Store-LIVE-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" /></a>
+<a href="https://elanaudiolab.com"><img src="https://img.shields.io/badge/Web-elanaudiolab.com-e63946?style=flat-square&logo=googlechrome&logoColor=white" alt="elanaudiolab.com" /></a>
 
 `Flutter` · `Supabase` · `Square` · `PayPal`
+
+</td>
+</tr>
+
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/MiyaraHub/.github/main/profile/uc-remote-icon.png" width="96" alt="UC Remote" /><br/>
+<sub><b>Remote Control</b></sub>
+</td>
+<td valign="top">
+
+### [UC Remote Android](https://github.com/mase1981/uc-remote-android)
+
+Unofficial native **Android companion app** for the Unfolded Circle Remote Two and Remote 3. Entity management, real-time WebSocket updates, custom UI pages, profile support, Wake-on-LAN. 100% Kotlin, no UC-cloud dependency, free on the Play Store.
+
+<a href="https://play.google.com/store/apps/details?id=com.ucremote.android"><img src="https://img.shields.io/badge/Play_Store-LIVE-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" /></a>
+
+`Kotlin` · `REST API` · `WebSocket` · `Material Design 3`
 
 </td>
 </tr>
