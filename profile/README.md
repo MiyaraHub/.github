@@ -40,6 +40,7 @@ The premium remote for **Denon and Marantz** AV receivers. Volume, input, surrou
 
 <a href="https://apps.apple.com/us/app/avr-maestro/id6762881597"><img src="https://img.shields.io/badge/App_Store-LIVE-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.miyarahub.avrmaestro"><img src="https://img.shields.io/badge/Play_Store-LIVE-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" /></a>
+<a href="https://apps.microsoft.com/detail/9P4M7W4J5106"><img src="https://img.shields.io/badge/Microsoft_Store-LIVE-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Microsoft Store" /></a>
 
 `Flutter` · `Telnet` · `HEOS` · `AppCommand HTTP` · `AJAX`
 
@@ -59,6 +60,7 @@ A single comprehensive controller for **HDFury HDMI processors** - VRRoom 8K, Ve
 
 <a href="https://apps.apple.com/us/app/furypath/id6763290302"><img src="https://img.shields.io/badge/App_Store-LIVE-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.miyarahub.furypath"><img src="https://img.shields.io/badge/Play_Store-LIVE-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" /></a>
+<a href="https://apps.microsoft.com/detail/9N1C30TLW0TB"><img src="https://img.shields.io/badge/Microsoft_Store-LIVE-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Microsoft Store" /></a>
 
 `Flutter` · `HTTP` · `SSI` · `Raw Socket` · `HDFury API`
 
@@ -78,6 +80,7 @@ Comprehensive **UPS monitoring** for CyberPower, APC, Eaton, Tripp Lite, and any
 
 <a href="https://apps.apple.com/us/app/upsight-for-cyberpower-eaton/id6762854779"><img src="https://img.shields.io/badge/App_Store-LIVE-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.miyarahub.upsight"><img src="https://img.shields.io/badge/Play_Store-LIVE-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" /></a>
+<a href="https://apps.microsoft.com/detail/9PCH5VFVQSGH"><img src="https://img.shields.io/badge/Microsoft_Store-LIVE-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Microsoft Store" /></a>
 
 `Flutter` · `SNMP` · `Network Discovery`
 
@@ -97,6 +100,7 @@ Mobile management for **Synology NAS** systems. Real-time monitoring of CPU / me
 
 <a href="https://apps.apple.com/us/app/syno-manager/id6763011668"><img src="https://img.shields.io/badge/App_Store-LIVE-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.synomanager"><img src="https://img.shields.io/badge/Play_Store-LIVE-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" /></a>
+<a href="https://apps.microsoft.com/detail/9P19N2B54N1R"><img src="https://img.shields.io/badge/Microsoft_Store-LIVE-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Microsoft Store" /></a>
 
 `Flutter` · `Synology DSM API` · `Docker API`
 
