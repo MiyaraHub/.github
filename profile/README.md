@@ -191,7 +191,10 @@ Full-stack **e-commerce platform** for premium audio products - product catalog,
 
 Unofficial native **Android companion app** for the Unfolded Circle Remote Two and Remote 3. Entity management, real-time WebSocket updates, custom UI pages, profile support, Wake-on-LAN. 100% Kotlin, no UC-cloud dependency, free on the Play Store.
 
+Anchor of the largest third-party Unfolded Circle ecosystem - **56 open-source integrations** (AV receivers, streamers, media players, gaming, smart home, projectors, and more) plus this companion app.
+
 <a href="https://play.google.com/store/apps/details?id=com.ucremote.android"><img src="https://img.shields.io/badge/Play_Store-LIVE-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" /></a>
+<a href="https://github.com/mase1981?tab=repositories&q=uc-intg"><img src="https://img.shields.io/badge/56_UC_Integrations-open_source-e63946?style=flat-square&logo=github&logoColor=white" alt="56 UC Integrations" /></a>
 
 `Kotlin` · `REST API` · `WebSocket` · `Material Design 3`
 
